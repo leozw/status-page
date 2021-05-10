@@ -1,5 +1,5 @@
 body {
-    font-family: Arial, Helvetica, sans-serif;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
 }
 
 .construction{
@@ -19,7 +19,8 @@ p {
 }
 
 button {
-    background-color: #4CAF50; /* Green */
+    cursor: pointer;
+    background-color: #4CAF50;
     border: none;
     color: white;
     padding: 15px 20px;
